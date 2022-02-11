@@ -35,3 +35,16 @@ courses availabe for those intrested in lesrning art.
 # Swot Analysis
 ![](https://github.com/artpursuit/M1_Art_Pursuit_App/blob/1478c634b30d0585261cfc391f49fd277033b543/1_Requirements/Swot%20Analysis.JPG)
 
+# High Level Requirements
+|Id|Description|Status|
+|---|---|---|
+|HL01|Various Items|Implemented|
+|HL02|Purchase and Study|Inplemented|
+|HL03|Bill calculation For Various Types|Implemented|
+
+# Low Level Requirements
+|Id|Description|Status|
+|---|---|---|
+|LL01|Multifile Concept|Implemented|
+|LL02|Customer Details|Implemented|
+
