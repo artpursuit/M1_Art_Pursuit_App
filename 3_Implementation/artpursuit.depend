@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1644589640 source:d:\1. ltts\z\artpursuit\handmadegifts.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"main.h"
+
+1644589233 d:\1. ltts\z\artpursuit\main.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1644588929 source:d:\1. ltts\z\artpursuit\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"main.h"
+	"handmadegifts.h"
+
+1644589233 d:\1. ltts\z\artpursuit\handmadegifts.h
+
