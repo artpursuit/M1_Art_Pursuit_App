@@ -1,3 +1,13 @@
+/**
+ * @file main.h
+ * @author Lokesh ()
+ * @brief ArtPursuit selling art
+ * @version 0.1
+ * @date 2022-02-11
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #ifndef __ARTPURSUIT_H__
 #define __ARTPURSUIT_H__
 
